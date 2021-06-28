@@ -1,0 +1,6 @@
+Jim, 20, Student
+Sally, 25, Engineer
+Alan, 23, Artist
+Lana, 18, Student
+Dave, 41, Coach
+Tina, 31, Consultant

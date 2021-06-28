@@ -1,0 +1,17 @@
+Table of Contents for Practical 2 Info & Slides:
+
+Modules and Tools: Lecture 9
+
+Formatting with print statements: Lecture 10
+
+Nested Lists and Sequences: Lab 5 and Lecture 11
+
+Reading FIles: Lecture 12 and Lab 6
+
+While Loops: Lab 6 and Lecture 13
+
+Dictionaries: Lecture 15 and Lab 7
+
+Debugging: Lecture 14
+
+Overall Review: Lecture 16 (Use star problem if you get lost)
